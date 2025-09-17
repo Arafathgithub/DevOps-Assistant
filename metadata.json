@@ -1,0 +1,5 @@
+{
+  "name": "DevOps Assistant",
+  "description": "An AI-powered chat application for DevOps tasks. It can generate Terraform scripts, help manage and monitor cloud infrastructure, and streamline your workflow.",
+  "requestFramePermissions": []
+}
